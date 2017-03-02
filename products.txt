@@ -1,0 +1,5 @@
+apple=apples
+grape=grapes
+banana=bananas
+lemon=lemons
+orange=oranges
